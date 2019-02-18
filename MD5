@@ -1,0 +1,9 @@
+0d9e52373bcc245ad32c82487ba38cd0 *DESCRIPTION
+da79b2cd161a9ebfeb25779a4dd64da5 *NAMESPACE
+a02f13b79778c327fc70e2d299623d60 *R/algorithm.R
+a745b35cf890d5a295359e9681b98bf7 *R/data.R
+7d8d4bc65dff01cf6ee0b2e8f5a79bdc *R/nsga3.R
+44538562820f1fc458b83a354a01a776 *data/german_credit.rda
+fa964b5d957069eb79692931cb95b41e *man/german_credit.Rd
+30232342e3a35750dfe57a987c68fc09 *man/nsga3-package.Rd
+2c850684774ff9a013c3ab6e2a00a214 *man/nsga3fs.Rd
